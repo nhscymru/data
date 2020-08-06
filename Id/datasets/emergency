@@ -1,0 +1,32 @@
+{:name      "Emergency department dataset"
+    :url       "http://www.wales.nhs.uk/sitesplus/documents/299/20090401_DSCN_022009%28W%29.pdf"
+    :dscn      "DSCN (2009) 02 (W)"
+    :namespace "https://data.standards.cymru/Id/datasets/edss"
+    :items
+               {:triage-categories
+                {:name      "Triage categories"
+                 :namespace "https://data.standards.cymru/Id/datasets/edss/triage"
+                 :values
+                            [{:id              "01"
+                              :active          true
+                              :description     "Priority One - Immediate"
+                              :info.snomed/sct 1064891000000107}
+                             {:id              "02"
+                              :active          true
+                              :description     "Priority Two - Very urgent"
+                              :info.snomed/sct 1064911000000105}
+                             {:id              "03"
+                              :active          true
+                              :description     "Priority Three - Urgent"
+                              :info.snomed/sct 1064901000000108}
+                             {:id              "04"
+                              :active          true
+                              :description     "Priority Four - Standard"
+                              :info.snomed/sct 1077241000000103}
+                             {:id              "05"
+                              :active          true
+                              :description     "Priority Five - Non urgent"
+                              :info.snomed/sct 1077251000000100}
+                             {:id          "06"
+                              :active      false
+                              :description "See and Treat"}]}}}
