@@ -1,11 +1,11 @@
 {:name      "Emergency department dataset"
     :url       "http://www.wales.nhs.uk/sitesplus/documents/299/20090401_DSCN_022009%28W%29.pdf"
     :dscn      "DSCN (2009) 02 (W)"
-    :namespace "https://data.standards.cymru/Id/datasets/edss"
+    :namespace "https://data.standards.cymru/Id/datasets/emergency"
     :items
                {:triage-categories
                 {:name      "Triage categories"
-                 :namespace "https://data.standards.cymru/Id/datasets/edss/triage"
+                 :namespace "https://data.standards.cymru/Id/datasets/emergency/triage"
                  :values
                             [{:id              "01"
                               :active          true
