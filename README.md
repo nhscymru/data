@@ -1,6 +1,14 @@
 # NHS Wales data dictionary
 
+> "Turtles all the way down"
+>
+> [https://en.wikipedia.org/wiki/Turtles_all_the_way_down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)
+
 This repository provides machine-readable versions of the NHS Wales data dictionary. It is currently a proof-of-concept.
+
+'Turtles all the way down' refers to the concept of infinite regress, and I'm using it to allude to the fact that, in health and care, it truly is, 'data all the way down'. Structured, meaningful data is the foundation on which we solve problems in health and care. I touched on the fractal, recursive nature of data in ["The Fractal medical record"](https://wardle.org/medical-records/2017/10/08/the-broken-medical-record.html ; you might also like [this xkcd cartoon](https://xkcd.com/1416/)
+
+## Background
 
 The background to this experiment is outlined in [https://wardle.org/strategy/2020/06/21/more-than-one-side.html](https://wardle.org/strategy/2020/06/21/more-than-one-side.html) and [https://wardle.org/standards/2020/07/09/value-sets.html](https://wardle.org/standards/2020/07/09/value-sets.html).
 
