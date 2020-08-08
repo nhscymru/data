@@ -4,11 +4,11 @@ Simple tools to support processing of datasets defined by NHS Wales data diction
 
 ## Installation
 
-Download from xxx
+Download from https://github.com/nhscymru/data
 
 ## Usage
 
-FIXME: explanation
+    $ cd tools
 
 Run the project directly:
 
@@ -44,7 +44,7 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2020 Mark
+Copyright © 2020 Mark Wardle
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
