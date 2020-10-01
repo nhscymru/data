@@ -1,8 +1,9 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
   "url": "specialties.csv",
+  "dc:identifier": "https://data.standards.cymru/Id/datasets/legacy/specialty",
   "dc:title": "NHS Wales specialty codes",
-  "dc:description": "This is a classification scheme used for central reporting.",
+  "dc:description": "This is a classification scheme used for central reporting. \nFor example, neurology can be represented as https://data.standards.cymru/Id/datasets/legacy/specialty|400",
   "dc:creator": "Information standards board, Welsh Reference Data Service (WRDS).",
   "tableSchema": {
     "columns": [{
