@@ -1,6 +1,7 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
   "url": "authorities.csv",
+  "system": "https://fhir.wales.nhs.uk/empi/authority",
   "dc:title": "Assigning authorities for the NHS Wales Enterprise Master Patient Index (EMPI).",
   "dc:description": "Not all of these authorities actually generate first-class identifiers, but are current or past applications or systems within NHS Wales.",
   "dc:creator": "Information standards board, Welsh Reference Data Service (WRDS).",
@@ -31,10 +32,10 @@
       "dc:description": "Internal eMPI code."
     }, {
       "titles": "ActiveFrom",
-      "dc:description": "Date this authority active from."
+      "dc:description": "Date authority active from."
     }, {
       "titles": "ActiveTo",
-      "dc:description": "Date this authority active until."
+      "dc:description": "Date authority active until."
     }]
   }
 }

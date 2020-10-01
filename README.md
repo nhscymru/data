@@ -41,3 +41,29 @@ As such:
 - We need to publish a declarative mapping from one identifier namespace to another if we wish to foster semantic interoperability; an ontology of ontologies.
 
 This repository aims to do that in a computer programming language agnostic manner, by starting with canonical data and providing tools to map those data definitions into different formats, including human-readable formats, automatically.
+
+# What's available so far?
+
+## Datasets
+
+Well, I've added some of the data definitions I've been able to obtain. 
+
+These are sometimes available in machine-readable formats, so I've tried
+to limit editing and instead added metadata in the form of the [CSVW](https://www.w3.org/TR/tabular-data-primer/) standard with Dublin Core metadata.
+Other datasets seem only to be available in non-machine readable formats such as an Excel spreadsheet
+or [Microsoft Help file (.CHM)](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help), so for these I am turning them into canonical machine-readable
+formats using [EDN](https://github.com/edn-format/edn) or [JSON](https://www.json.org/json-en.html).  
+
+As I prove that this is an effective approach, I'd like to scale to all data definitions in use, both those 
+for operational systems and those for central reporting.
+
+## Tools
+
+In order to make use of these data definitions in software, I'm building some rudimentary
+tools to ingest dataset definitions in different formats, normalise them and
+make them available in a range of canonical formats independent of their original source suitable
+for consumption by client applications.
+
+In reality, the goal is to entirely abstract away the complexity of proprietary value sets
+for client applications, because they should be making sense of data at a much higher level of abstraction.
+These datasets, and the tools that go with them, serve that primary goal. 
