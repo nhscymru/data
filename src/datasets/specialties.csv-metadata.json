@@ -11,6 +11,14 @@
     },{
       "titles": "title",
       "dc:description": "The name of the specialty."
+    },{
+      "titles": "dateFrom",
+      "dc:description": "Date this specialty code became active.",
+      "format": "yyyy-MM-dd"
+    },{
+      "titles": "dateTo",
+      "dc:description": "Date this speciality was active until.",
+      "format": "yyyy-MM-dd"
     }]
   }
 }
