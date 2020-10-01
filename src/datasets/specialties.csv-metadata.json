@@ -1,0 +1,16 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "specialties.csv",
+  "dc:title": "NHS Wales specialty codes",
+  "dc:description": "This is a classification scheme used for central reporting.",
+  "dc:creator": "Information standards board, Welsh Reference Data Service (WRDS).",
+  "tableSchema": {
+    "columns": [{
+      "titles": "code",
+      "dc:description": "The specialty code."
+    },{
+      "titles": "title",
+      "dc:description": "The name of the specialty."
+    }]
+  }
+}

@@ -1,0 +1,95 @@
+﻿code, title, dateFrom, dateTo
+100,General Surgery, , 
+101,Urology, , 
+110,Trauma & Orthopaedic, , 
+120,ENT, , 
+130,Ophthalmology, , 
+140,Oral Surgery, , 
+141,Restorative Dentistry, , 
+142,Paediatric Dentistry, , 
+143,Orthodontics, , 
+145,Oral & Maxillo Facial Surgery, 2015-04-01
+146,Endodontics, 2015-04-01
+147,Periodontics, 2015-04-01
+148,Prosthodontics, 2015-04-01
+149,Surgical Dentistry, 2015-04-01
+150,Neurosurgery, , 
+160,Plastic Surgery, , 
+170,Cardiothoracic Surgery, , 
+171,Paediatric Surgery, , 
+180,Accident & Emergency, , 
+191,Pain Management, , 2015-03-31
+190,Anaesthetics, , 
+192,Critical Care Medicine, 2015-04-01
+199,Non-UK provider; specialty function not know, treatment mainly surgical (only applicable for overseas providers), , 2015-03-31
+300,General Medicine, , 
+301,Gastroenterology, , 
+302,Endocrinology, , 
+303,Clinical Haematology, , 
+304,Clinical Physiology, , 
+305,Clinical Pharmacology, , 
+310,Audiological Medicine, , 
+311,Clinical Genetics, , 
+312,Clinical Cytogenetics and Molecular Genetics, , 2015-03-31
+313,Clinical Immunology and Allergy, , 
+314,Rehabilitation, , 
+315,Palliative Medicine, , 
+320,Cardiology, , 
+321,Paediatric Cardiology, 2015-04-01
+325,Sport And Exercise Medicine, 2015-04-01
+326,Acute Internal Medicine, 2015-04-01
+330,Dermatology, , 
+340,Respiratory Medicine (also known as Thoracic Medicine), , 
+350,Infectious Diseases, , 
+352,Tropical Medicine, 2015-04-01
+360,Genitourinary Medicine, , 
+361,Nephrology, , 
+370,Medical Oncology, , 
+371,Nuclear Medicine, , 
+400,Neurology, , 
+401,Clinical Neuro-physiology, , 
+410,Rheumatology, , 
+420,Paediatrics, , 
+421,Paediatric Neurology, , 
+430,Geriatric Medicine, , 
+450,Dental Medicine Specialties, , 
+451,Special Care Dentistry, 2015-04-01
+460,Medical Ophthalmology, , 
+499,Non-UK provider; specialty function not known, treatment mainly medical (only applicable for overseas providers), , 2015-03-31
+500,Obstetrics And Gynaecology, 2015-04-01
+501,Obstetrics, , 
+502,Gynaecology, , 
+504,Community Sexual And Reproductive Health, 2015-04-01
+510,Obstetrics – AN (outpatients), , 2015-03-31
+520,Obstetrics - PN (outpatients), , 2015-03-31
+560,Midwife Episode, , 
+600,General Medical Practice, 2015-04-01
+601,General Dental Practice, 2015-04-01
+610,GP Maternity, , 2015-03-31
+620,GP Other, , 2015-03-31
+700,Learning Disability, , 
+710,Adult Mental Illness, , 
+711,Child & Adolescent Psychiatry, , 
+712,Forensic Psychiatry, , 
+713,Pyschotherapy, , 
+715,Old Age Psychiatry, , 
+800,Clinical Oncology (Previously Radiotherapy), , 
+810,Radiology, , 
+820,General Pathology, , 
+821,Blood Transfusion, , 
+822,Chemical Pathology, , 
+823,Haematology, , 
+824,Histopathology, , 
+830,Immunopathology, , 
+831,Medical Microbiology, , 
+832,Neuropathology, , 2015-03-31
+833,Medical Microbiology (Also Known As Microbiology And Bacteriology), 2015-04-01
+834,Medical Virology, 2015-04-01
+900,Community Medicine, , 
+901,Occupational Medicine, , 
+902,Community Health Services Dental, 2015-04-01
+903,Public Health Medicine, 2015-04-01
+904,Public Health Dental, 2015-04-01
+950,Nursing Episode, , 
+960,Allied Health Professional Episode, 2015-04-01
+990,Joint Consultant Clinics, , 2015-03-31
