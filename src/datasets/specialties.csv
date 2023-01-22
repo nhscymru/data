@@ -12,7 +12,7 @@
 146,Endodontics, 2015-04-01,
 147,Periodontics, 2015-04-01,
 148,Prosthodontics, 2015-04-01,
-149,Surgical Dentistry, 2015-04-01,
+149,Surgical Dentistry, 2015-04-01,,
 150,Neurosurgery, , 
 160,Plastic Surgery, , 
 170,Cardiothoracic Surgery, , 
@@ -21,7 +21,7 @@
 191,Pain Management, , 2015-03-31
 190,Anaesthetics, , 
 192,Critical Care Medicine, 2015-04-01,
-199,Non-UK provider; specialty function not know, treatment mainly surgical (only applicable for overseas providers), , 2015-03-31
+199,Non-UK provider; specialty function not known - treatment mainly surgical (only applicable for overseas providers), , 2015-03-31
 300,General Medicine, , 
 301,Gastroenterology, , 
 302,Endocrinology, , 
