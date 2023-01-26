@@ -6,6 +6,19 @@
 
 This repository provides machine-readable versions of the NHS Wales data dictionary. It is currently a proof-of-concept.
 
+We want [5* open data](https://5stardata.info/en/) for health and care in Wales:
+
+|       |                                                                                                        |
+|-------|--------------------------------------------------------------------------------------------------------|
+| ★     | make information available on the Web (whatever format) under an open license                          |
+| ★★    | make information available as structured data (e.g., Excel instead of image scan of a table)           |
+| ★★★   | make it available in a non-proprietary open format (e.g., CSV instead of Excel)                        |
+| ★★★★  | use identifiers to denote things, so that people can point and talk about your resources unambiguously |   
+ | ★★★★★ | link data to other data to provide context                                                             |
+
+
+There are still too many examples in which even when data are published, the formats used make it difficult to consume those data. For example, a spreadsheet with human-readable notes fields in the rows before and after the actual data - fine for humans but a problem for machines and automation.
+
 'Turtles all the way down' refers to the concept of infinite regress, and I'm using it to allude to the fact that, in health and care, it truly is, 'data all the way down'. Structured, meaningful data is the foundation on which we solve problems in health and care. I touched on the fractal, recursive nature of data in ["The Fractal medical record"](https://wardle.org/medical-records/2017/10/08/the-broken-medical-record.html) ; you might also like [this xkcd cartoon](https://xkcd.com/1416/)
 
 ## Background
@@ -62,7 +75,7 @@ for operational systems and those for central reporting.
 In order to make use of these data definitions in software, I'm building some rudimentary
 tools to ingest dataset definitions in different formats, normalise them and
 make them available in a range of canonical formats independent of their original source suitable
-for consumption by client applications.
+for consumption by client applications. 
 
 In reality, the goal is to entirely abstract away the complexity of proprietary value sets
 for client applications, because they should be making sense of data at a much higher level of abstraction.
