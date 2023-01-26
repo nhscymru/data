@@ -19,7 +19,7 @@ We want [5* open data](https://5stardata.info/en/) for health and care in Wales:
 
 There are still too many examples in which even when data are published, the formats used make it difficult to consume those data. For example, a spreadsheet with human-readable notes fields in the rows before and after the actual data - fine for humans but a problem for machines and automation.
 
-'Turtles all the way down' refers to the concept of infinite regress, and I'm using it to allude to the fact that, in health and care, it truly is, 'data all the way down'. Structured, meaningful data is the foundation on which we solve problems in health and care. I touched on the fractal, recursive nature of data in ["The Fractal medical record"](https://wardle.org/medical-records/2017/10/08/the-broken-medical-record.html) ; you might also like [this xkcd cartoon](https://xkcd.com/1416/)
+'Turtles all the way down' refers to the concept of infinite regress, and I'm using it to allude to the fact that, in health and care, it truly is, 'data all the way down'. Structured, meaningful data is the foundation on which we solve problems in health and care. I touched on the fractal, recursive nature of data in ["The Fractal medical record"](https://wardle.org/medical-records/2017/10/08/the-broken-medical-record.html) ; you might also like [this xkcd cartoon](https://xkcd.com/1416/). We must treat data as first-class; tools that help process and interpret those data should be widely available, and user-facing applications that make use of those data and tools are but prisms through which users interact with, and contribute to, those data.
 
 ## Background
 
