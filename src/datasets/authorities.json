@@ -5,6 +5,9 @@
   "dc:title": "Assigning authorities for the NHS Wales Enterprise Master Patient Index (EMPI).",
   "dc:description": "Not all of these authorities actually generate first-class identifiers, but are current or past applications or systems within NHS Wales.",
   "dc:creator": "Information standards board, Welsh Reference Data Service (WRDS).",
+  "dialect": {
+    "header" : true
+  },
   "tableSchema": {
     "columns": [{
       "titles": "AssigningAuthority",
